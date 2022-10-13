@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="RqtB@Qm(9MXk?#GI3hmx" x="0" y="0"></block><block type="device_forever" id="[(Ak_rx9n!`TbFe=w[k`" x="205" y="0"></block><block type="device_show_leds" id="z;x,g,5CckK]8Rd4h4+$" disabled="true" x="-26" y="94"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block><block type="device_plot" id="g/RmK1v(Wk-jsngJI!Xp" disabled="true" x="68" y="99"><value name="x"><shadow type="math_number_minmax" id="Od@,IV!YGG/CcRT(cGQ*" disabled="true"><mutation min="0" max="4" label="X" precision="1"></mutation><field name="SLIDER">4</field></shadow></value><value name="y"><shadow type="math_number_minmax" id="U-dD5vs|ldvC?Ee}Lo(|" disabled="true"><mutation min="0" max="4" label="Y" precision="1"></mutation><field name="SLIDER">7</field></shadow></value></block><block type="device_gesture_event" id=":5K3FOs}V#9/qv2Q!MxR" x="-26" y="150"><field name="NAME">Gesture.Shake</field></block><block type="device_print_message" id="Hzqql^AA?w~1ID!)wPSr" disabled="true" x="-26" y="413"><value name="text"><shadow type="text" id="d!f}PE6KtGSg_7xf/_U3" disabled="true"><field name="TEXT">schwanz</field></shadow></value></block></xml>
